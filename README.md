@@ -2,7 +2,11 @@
 <h3 align="center">A Web developer from India</h3>
 
 <h3 align="left">Connect with me:</h3>
+
+## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mayur.dhwaj) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mayur-dhwaj) 
+
+# 💻 Tech Stack:
 
 <p align="left">
 </p>
