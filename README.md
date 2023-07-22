@@ -4,7 +4,7 @@
 <h3 align="left">Connect with me:</h3>
 
 
-[![Instagram]([https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pagetraffic.com%2Fblog%2Fnew-instagram-logo-png%2F&psig=AOvVaw18V8x8Ma5-sdKWpcvQW_V4&ust=1690113402363000&source=images&cd=vfe&opi=89978449&ved=0CA0QjRxqFwoTCOD-35mhooADFQAAAAAdAAAAABAE))](https://instagram.com/mayur.dhwaj) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mayur-dhwaj) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mayur.dhwaj) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mayur-dhwaj) 
 
  
 <p align="left">
