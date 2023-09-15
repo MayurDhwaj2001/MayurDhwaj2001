@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mayur Dhwaj</h1>
+<h1 align="center">Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif">, I'm Mayur Dhwaj</h1>
 <h3 align="center">A Web developer from India</h3>
 
 <h3 align="left">Connect with me:</h3>
