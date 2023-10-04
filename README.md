@@ -3,9 +3,9 @@
 
 <h3 align="left">Connect with me:</h3>
 
-
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mayur.dhwaj)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mayur-dhwaj) 
-
+<a href="https://linkedin.com/in/mayur-dhwaj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mayur-dhwaj" height="30" width="40" /></a>
+<a href="https://instagram.com/mayur.dhwaj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mayur.dhwaj" height="30" width="40" /></a>
+</p>
  
 <p align="left">
 </p>
